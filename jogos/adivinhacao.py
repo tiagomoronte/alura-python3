@@ -41,9 +41,9 @@ def jogar():
             break
         else:
             if (maior):
-                print("Chute maior")
+                print("O número é menor do que {}".format(chute))
             elif (menor):
-                print("Chute menor")
+                print("O número é maior do que {}".format(chute))
             pontos = pontos - (abs(numero_secreto - chute))
 
         rodada += 1

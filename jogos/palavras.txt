@@ -1,3 +1,14 @@
 banana
 morango
 maça
+uva
+abacate
+amora
+cereja
+laranja
+kiwi
+pera
+jabuticaba
+carambola
+tomate
+caqui
